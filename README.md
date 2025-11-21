@@ -4,11 +4,13 @@ Welcome to the **PDF Table Extraction & Summarization** project! This applicatio
 
 ## 🚀 Features
 
-- **📤 Upload PDFs:** Easily upload your PDF documents through a user-friendly interface.
-- **👀 Preview PDFs:** View the content of your PDFs directly within the application.
-- **📊 Extract Tables:** Automatically detect and extract tables from your uploaded PDFs.
-- **📝 Summarize Tables:** Generate insightful summaries of each extracted table using AI-powered summarization.
-- **🧹 Automatic Cleanup:** Ensures temporary files are deleted after processing to maintain security and efficiency.
+- **Upload PDFs:** Easily upload your PDF documents through a user-friendly interface.
+- ** Preview PDFs:** View the content of your PDFs directly within the application.
+- ** Extract Tables:** Automatically detect and extract tables from your uploaded PDFs.
+- ** Summarize Tables:** Generate insightful summaries of each extracted table using AI-powered summarization.
+- ** Visual Representation :** Generate  a Line graph  for the visual representation of  the summarized data.
+- **Chatbot Integration:** Chatbot  which will respond to user  query from the summarised data
+- ** Automatic Cleanup:** Ensures temporary files are deleted after processing to maintain security and efficiency.
 
 ## 🛠️ Installation
 
