@@ -34,6 +34,9 @@ Follow these steps to set up the project locally:
        ```bash
        venv\Scripts\activate
        ```
+         ```bash
+       .\venv\Scripts\Activate.ps1  
+       ```
      - **macOS/Linux:**
        ```bash
        source venv/bin/activate
@@ -51,7 +54,8 @@ Run the Streamlit application using the following command:
 
 streamlit run app.py
 
-
+ python -m streamlit run app.py
+ 
 Once the application starts, follow these steps:
 
 1. **📂 Upload Your PDF:**
